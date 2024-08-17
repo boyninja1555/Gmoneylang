@@ -1,7 +1,7 @@
 """
 |===| Gmoneylang 1.0.0 source code |===|
 Gmoneylang is licensed under the MIT license
-Open the LICENSE file for more information on how you can use this software's public code
+Open the LICENSE file for more information
 Copyright (c) 2024 boyninja15
 """
 
